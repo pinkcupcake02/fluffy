@@ -1,0 +1,5 @@
+import turtle
+window_box = turtle.screen()
+turtle.screen()
+rose=turtle.Turtle
+rose.turtle("blue")
